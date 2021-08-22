@@ -6,7 +6,6 @@ from django_filters.rest_framework.backends import DjangoFilterBackend
 from .models import (
     Review,
     Confirmation,
-    Review,
     Title,
     Category,
     Genre
